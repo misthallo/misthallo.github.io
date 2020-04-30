@@ -1,0 +1,80 @@
+h2 { 
+color: burlywood;
+height: auto;
+}
+
+header{
+   background-size: auto;
+  background: linear-gradient(90deg, rgba(11,36,0,1) 12%, rgba(9,9,121,1) 35%, rgba(62,127,9,1) 55%, rgba(0,255,224,1) 86%);
+ color: mintcream;
+ line-height: 20px;
+text-align: center;
+width: 100px;
+}
+body {
+  text-align: left;
+  color:#000000;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    background-color: lightgoldenrodyellow;
+}
+.page-header{
+
+line-height: normal;
+color: midnightblue;
+
+}
+.first_legend{
+ color:  darkcyan;
+
+}
+input[type="radio"]{
+ background-color: black;
+
+}
+input[type="reset"],
+input[type="submit"]{
+margin-left: 50px;
+background-color: mintcream;
+
+
+
+}
+.vk,
+.mail{
+width: 20px;
+height: 20px;
+
+
+}
+aside {
+  float: right;
+ padding-right: 1000px;
+
+}
+video {
+background-color: black;
+
+
+}
+footer{
+margin-top: 20px;
+background-color: aquamarine;
+font-size: 20px;
+
+}
+.light-theme{
+background-color: azure;
+
+
+}
+.dark-theme{
+background-color: black;
+
+}
+.theme-button{
+color: blanchedalmond;
+
+}
